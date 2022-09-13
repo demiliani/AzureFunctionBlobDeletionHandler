@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobDeleteProcessing", "BlobDeleteProcessing\BlobDeleteProcessing.csproj", "{02F13A5A-298C-4782-8914-0F5B9B9C6274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F13A5A-298C-4782-8914-0F5B9B9C6274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F13A5A-298C-4782-8914-0F5B9B9C6274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F13A5A-298C-4782-8914-0F5B9B9C6274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F13A5A-298C-4782-8914-0F5B9B9C6274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6261B19C-E86B-4BBD-8499-9F79B730C9FD}
+	EndGlobalSection
+EndGlobal
